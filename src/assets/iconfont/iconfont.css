@@ -1,0 +1,50 @@
+/*
+ * @Author: 马世洁 mashijiezuishuai@outlook.com
+ * @Date: 2025-01-20 11:59:18
+ * @LastEditors: 马世洁 mashijiezuishuai@outlook.com
+ * @LastEditTime: 2025-01-20 11:59:34
+ * @FilePath: \backstageManagement\src\assets\iconfont\iconfont.js
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+@font-face {
+  font-family: "iconfont"; /* Project id 4635107 */
+  src: url('//at.alicdn.com/t/c/font_4635107_82940jn946i.woff2?t=1737345258223') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4635107_82940jn946i.woff?t=1737345258223') format('woff'),
+       url('//at.alicdn.com/t/c/font_4635107_82940jn946i.ttf?t=1737345258223') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cunchu:before {
+  content: "\e6d5";
+}
+
+.icon-daishenhe:before {
+  content: "\e6d6";
+}
+
+.icon-faxian:before {
+  content: "\e6d7";
+}
+
+.icon-jine:before {
+  content: "\e60f";
+}
+
+.icon-dingwei:before {
+  content: "\e610";
+}
+
+.icon-shouye:before {
+  content: "\e611";
+}
+
+.icon-shujujiance:before {
+  content: "\e612";
+}
